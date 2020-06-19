@@ -27,6 +27,12 @@ is also attached.  It is expected to run on Raspberry Pi or etc.
 
 Aug. 30, 2015
 
+## Presentation Material (in Japanese)
+
+Now, the original presentation material is provided [here](http://flogics.com/wp/wp-content/uploads/2020/06/presen_v12_public_shrink-min.pdf).
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />(The presentation material is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.  Not BSD license.)
+
 Yokoyama, Atsushi
 
 Firmlogics
